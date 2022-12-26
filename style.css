@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: rgb(231, 155, 83);
+  background-image: url("img/4.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: auto; /* You must set a specified height */
+  width: auto;
+  background-position: center; /* Center the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+#about {
+  height: 600px;
+  background-color: rgb(231, 155, 83);
+}
+#projects {
+  background-color: #0099ff;
+}
+section {
+  padding-top: 5rem;
+}
