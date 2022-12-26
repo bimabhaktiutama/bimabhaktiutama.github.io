@@ -9,7 +9,7 @@
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 #about {
-  height: 600px;
+  height: auto;
   background-color: rgb(231, 155, 83);
 }
 #projects {
